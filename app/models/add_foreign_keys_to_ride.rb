@@ -1,0 +1,2 @@
+class AddForeignKeysToRide < ApplicationRecord
+end
